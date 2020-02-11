@@ -1,3 +1,4 @@
-# Catchy Acronym Name (CAN): A tool for automatically extracting data from plots
+# FARGO: Fully automated reverse engineering of graphical objets
 
-## Project 
+Currently, this is in the very preliminary stages, check back soon for a docker set up and guide to run the code for yourself. For now, check out the juypyter notebook for the main ideas!
+
